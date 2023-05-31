@@ -13,7 +13,7 @@ name                     : # &name "Your Name"
 description              : &description "My studies in Bioengineering and Plant Ecology shaped my interest in inter-disciplinary research. I believe that the most vexing challenges human society faces cannot be solved unilaterally. A key interest is transferring and developing methods in optical remote sensing and applying them in digital disease detection and precision agriculture. With my research, I am hoping to optimize agricultural practices for securing a sustainable and healthy food production while mitigating their environmental impact. For more details, please contact me. "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # "academicpages/academicpages.github.io"
+repository               : "ReneHeim/renehjheim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
