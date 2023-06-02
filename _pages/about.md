@@ -14,5 +14,5 @@ redirect_from:
 My studies in Bioengineering and Plant Ecology shaped my interest in inter-disciplinary research. I believe that the most vexing challenges human society faces cannot be solved unilaterally. A key interest is transferring and developing methods in optical remote sensing and applying them in digital disease detection and precision agriculture. With my research, I am hoping to optimize agricultural practices for securing a responsible and healthy food production while mitigating their environmental impact.
 <br>
 <br>
-For more details, please mailto:, [contact me](mailto:heim@ifz-goettingen.de).
+For more details, please [contact me.](mailto:heim@ifz-goettingen.de?subject=[GitHub]%20Source%20Han%20Sans).
 </div>
