@@ -1,6 +1,6 @@
 ---
 title: "Simple preparation of plant epidermal tissue for laser microdissection and downstream quantitative proteome and carbohydrate analysis."
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "The adhesive tape – liquid cover glass technique (ACT) for simple leaf epidermis preparation from <em>Arabidopsis thaliana</em> <br/><img src='/images/act.png'>"
 collection: portfolio
 ---
 
