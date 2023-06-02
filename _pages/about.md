@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
- # ![](/images/banner.png)
-
-<center><img src="/images/banner.png" alt="Logo"></center>
+ ![](/images/banner.png)
   
 <div style = "text-align: justify">
-My studies in Bioengineering and Plant Ecology shaped my interest in inter-disciplinary research. I believe that the most vexing challenges human society faces cannot be solved unilaterally. A key interest is transferring and developing methods in optical remote sensing and applying them in digital disease detection and precision agriculture. With my research, I am hoping to optimize agricultural practices for securing a sustainable and healthy food production while mitigating their environmental impact.
+My studies in Bioengineering and Plant Ecology shaped my interest in inter-disciplinary research. I believe that the most vexing challenges human society faces cannot be solved unilaterally. A key interest is transferring and developing methods in optical remote sensing and applying them in digital disease detection and precision agriculture. With my research, I am hoping to optimize agricultural practices for securing a responsible and healthy food production while mitigating their environmental impact.
 <br>
 <br>
 For more details, please contact me.
