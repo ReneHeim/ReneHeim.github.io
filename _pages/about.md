@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://github.com/ReneHeim/ReneHeim.github.io/tree/master/images/banner.png" />
-</p>
-
+![](/images/banner.png)
 
 CHANGE HERE
