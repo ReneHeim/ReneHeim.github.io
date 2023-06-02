@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![](/images/banner.png)
+
+<p align="center">
+  <img src="/images/banner.png" />
+</p>
+
 
 CHANGE HERE
