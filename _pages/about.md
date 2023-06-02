@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/banner.png" />
+  <img src="https://github.com/ReneHeim/ReneHeim.github.io/tree/master/images/banner.png" />
 </p>
 
 
