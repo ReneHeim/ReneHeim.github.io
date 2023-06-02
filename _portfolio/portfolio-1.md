@@ -1,7 +1,5 @@
 ---
-title: "Simple preparation of plant epidermal tissue for laser microdissection and downstream quantitative proteome and carbohydrate analysis."
-excerpt: "The adhesive tape – liquid cover glass technique (ACT) for simple leaf epidermis preparation from <em>Arabidopsis thaliana</em> <br/><img src='/images/act.png'>"
+title: "ON UAV - Harnessing oblique and nadir observation angles to improve plant disease prediction in sugar beet."
+excerpt: "The standard view when using drones is looking straight down (nadir). Oblique viewing angles allow adding more information that can be used for plant disease incidence and severity estimates. <br/><img src='/images/angle.png'>"
 collection: portfolio
 ---
-
-Falter, C., Ellinger, D., von Hülsen, B., Heim, R.H., & Voigt, C.A. (2015). Simple preparation of plant epidermal tissue for laser microdissection and downstream quantitative proteome and carbohydrate analysis. Frontiers in Plant Science, 6.
