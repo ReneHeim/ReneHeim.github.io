@@ -1,5 +1,5 @@
 ---
-title: "ON UAV - Harnessing oblique and nadir observation angles to improve plant disease prediction in sugar beet."
-excerpt: "The standard view when using drones is looking straight down (nadir). Oblique viewing angles allow adding more information that can be used for plant disease incidence and severity estimates. <br/><img src='/images/angle.png'>"
+title: "Cerco BRDF - Understanding multi-angular reflectance patterns in a <em>Cercospora beticola</em> trial."
+excerpt: "Giuseppe Quaratiello (Research Gate)[https://www.researchgate.net/profile/Giuseppe-Quaratiello-3] is exploring the diurnal variability of leaf angle distribution in a cercospora/sugar beet variety trial. The goal is to understand the multi-angular reflectance patterns that are caused by diseased and healthy sugar beet plants and to find optimal flight missions to describe these patterns (e.g., by using bidirectional reflectance distribution functions). <br/><img src='/images/quaratiello.jpg'>"
 collection: portfolio
 ---
