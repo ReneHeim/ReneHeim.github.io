@@ -1,7 +1,7 @@
 ---
 title: "Detecting myrtle rust (<em>Austropuccinia psidii</em>) on lemon myrtle trees using spectral signatures and machine learning"
 collection: publications
-permalink: /publication/myrtlerust1
+permalink: /publication/18-06-01-myrtlerust1
 excerpt: ''
 date: 2018-06-01
 venue: 'Plant Pathology'
