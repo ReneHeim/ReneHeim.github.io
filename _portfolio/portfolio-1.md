@@ -4,4 +4,4 @@ excerpt: "The standard view when using drones is looking straight down (nadir). 
 collection: portfolio
 ---
 
-![DFG](dfg.png)
+![DFG](/images/dfg.png)
