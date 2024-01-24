@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- ![](/images/banner.png)
+ ![](/images/disease_copter_banner_nobg.png)
   
 
 My studies in Bioengineering and Plant Ecology shaped my interest in inter-disciplinary research. I believe that the most vexing challenges human society faces cannot be solved unilaterally. A key interest is transferring and developing methods in optical remote sensing and applying them in digital disease detection and precision agriculture. With my research, I am hoping to optimize agricultural practices for securing a responsible and healthy food production while mitigating their environmental impact.
