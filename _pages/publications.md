@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 - **Heim, R. HJ.**, Melloy, P., Okole, N., Ispizua Yamati, F. R., Mahlein, A.‑K. (2024). Remotely sensed leaf area index can improve
 mechanistic Cercospora beticola epidemiological models for disease predictions. (in preparation)
 - **Heim, R. HJ.**, Okole, N., Steppe, K., van Labeke, M.C., Geedicke, I., & Maes, W. H. (2024). An applied framework to unlocking multi‑
@@ -46,5 +45,4 @@ rust (austropuccinia psidii) on lemon myrtle trees using spectral signatures and
 - Falter, C., Ellinger, D., von Hülsen, B., **Heim, R. HJ.**, & Voigt, C. A. (2015). Simple preparation of plant epidermal tissue for laser mi‑
 crodissection and downstream quantitative proteome and carbohydrate analysis. Frontiers in Plant Science, 6, 194. doi: [10.3389/fpls.2015.00194](https://doi.org/10.3389/fpls.2015.00194)
 - **Heim, R. HJ.**, Jürgens, N., Große‑Stoltenberg, A., & Oldeland, J. (2015). The effect of epidermal structures on leaf spectral signatures
-of ice plants (aizoaceae). Remote Sensing, 7, 16901–16914. doi: [10.3390/rs71215862](https://doi.org/10.3390/rs71215862) 
-
+of ice plants (aizoaceae). Remote Sensing, 7, 16901–16914. doi: [10.3390/rs71215862](https://doi.org/10.3390/rs71215862)
