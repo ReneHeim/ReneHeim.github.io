@@ -12,10 +12,10 @@ angular uav reflectance data: A case study for classification of plant parameter
 sensing and deep learning for in‑field disease incidence scoring of virus yellows in sugar beet. Plant Pathology. (submitted)
 - Yamati, F. R. I., **Heim, R. HJ.**, Günder, M., Gajda, W., & Mahlein, A.‑K. (2023). Image‑to‑image translation for satellite and uav remote
 sensing: A use case for cercospora leaf spot monitoring on sugar beet. 2023 IEEE International Workshop on Metrology for
-Agriculture and Forestry (MetroAgriFor), 783–787. [10.1109/MetroAgriFor58484.2023.10424276](https://doi.org/10.1109/MetroAgriFor58484.2023.10424276)
+Agriculture and Forestry (MetroAgriFor), 783–787. doi: [10.1109/MetroAgriFor58484.2023.10424276](https://doi.org/10.1109/MetroAgriFor58484.2023.10424276)
 - Okole, N., Yamati, F. R. I., Hossain, R., Varrelmann, M., Mahlein, A.‑K., & **Heim, R. HJ.** (2023). Hyperspectral signatures and betalain
 indicator for beet mosaic virus infection in sugar beet. 2023 IEEE International Workshop on Metrology for Agriculture and
-Forestry (MetroAgriFor), 506–511. [10.1109/MetroAgriFor58484.2023.10424290](https://doi.org/10.1109/MetroAgriFor58484.2023.10424290)
+Forestry (MetroAgriFor), 506–511. doi: [10.1109/MetroAgriFor58484.2023.10424290](https://doi.org/10.1109/MetroAgriFor58484.2023.10424290)
 - Vlaminck, M., Diels, L., Philips, W., Maes, W. H., **Heim, R. HJ.**, Wit, B. D., & Luong, H. Q. (2023). A multisensor uav payload and processing
 pipeline for generating multispectral point clouds. Remote Sensing, 15, 1524. doi:[10.36961/si28804](https://doi.org/10.36961/si28804) 
 - **Heim, R. HJ.**, Streit, S., Koops, D., Kuska, M. T., & Paulus, S. (2022). Digital weed management – new trends for weed scoring in sugar
