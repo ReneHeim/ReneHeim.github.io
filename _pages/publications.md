@@ -8,7 +8,7 @@ author_profile: true
 mechanistic <i>Cercospora beticola</i> epidemiological models for disease predictions. (in preparation)
 - **Heim, R.HJ.**, Okole, N., Steppe, K. Van Labeke, M.C., Geedicke, I., Maes, W.H. (2024). An applied framework to unlocking multi-angular UAV reflectance data: a case study for classification of plant parameters in maize (Zea mays). *Precision Agriculture*. doi:[10.1007/s11119-024-10133-0](https://doi.org/10.1007/s11119-024-10133-0)
 - Okole, N., Ispizua, F. R. Y., Hossain, R., Varrelmann, M., Mahlein, A.‑K., & **Heim, R. HJ.** (2024). Leveraging aerial low‑altitude remote
-sensing and deep learning for in‑field disease incidence scoring of virus yellows in sugar beet. *Plant Pathology*. (submitted)
+sensing and deep learning for in‑field disease incidence scoring of virus yellows in sugar beet. *Plant Pathology*. doi:[https://doi.org/10.1111/ppa.13973 ](https://doi.org/10.1111/ppa.13973 )
 - Yamati, F. R. I., **Heim, R. HJ.**, Günder, M., Gajda, W., & Mahlein, A.‑K. (2023). Image‑to‑image translation for satellite and UAV remote
 sensing: A use case for Cercospora Leaf Spot monitoring on sugar beet. *2023 IEEE International Workshop on Metrology for
 Agriculture and Forestry (MetroAgriFor)*, 783–787. doi: [10.1109/MetroAgriFor58484.2023.10424276](https://doi.org/10.1109/MetroAgriFor58484.2023.10424276)
