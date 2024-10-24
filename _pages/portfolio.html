@@ -30,12 +30,22 @@ process and ease adoption.
 
 <h2> High interval measurement of leaf angle dynamics using stereo vision (Active)</h2>
 
-Leaf inclination angles (LIA) are crucial for regulating various processes within the plant carbon–water–energy nexus. In agriculture, these processes include photosynthesis, leaf temperature, plant growth, and the microclimate within the canopy. Despite its significance, LIA remains one of the most understudied plant functional traits due to the difficulty of measuring it accurately, particularly at short temporal intervals. In optical remote sensing, LIA is a key factor influencing spectral variability, which directly impacts the robustness of empirical models. To address this gap, we propose a novel, automated approach to capture 3D point clouds of small crops (e.g., sugar beet), enabling precise determination of LIA from the generated data. Our system, controlled by publicly available code, and therefore adhering to FAIR principles and open software standards, allows for customizable capture intervals and positions. 
-The method was validated using a 3D-printed sugar beet model with known LIA, demonstrating its potential for advancing plant trait studies.
+Leaf inclination angles (LIA) are crucial for regulating various processes within the plant carbon–water–energy nexus. In agriculture, these processes 
+include photosynthesis, leaf temperature, plant growth, and the microclimate within the canopy. Despite its significance, LIA remains one of the most 
+understudied plant functional traits due to the difficulty of measuring it accurately, particularly at short temporal intervals. In optical remote sensing, 
+LIA is a key factor influencing spectral variability, which directly impacts the robustness of empirical models. Together with Frederik Hennecke, a data science 
+student at the University of Göttingen, we developed a novel and automated approach to capture 3D point clouds of small crops (e.g., sugar beet), enabling precise determination of LIA from the generated data. Our system, 
+controlled by publicly available code, and therefore adhering to FAIR principles and open software standards, allows for customizable capture intervals and 
+positions. The method was validated using a 3D-printed sugar beet model with known LIA, demonstrating its potential for advancing plant trait studies.
 
 <p align="center">
   <img src="/images/fig1_farmbot.png" width=50% height=50%/>
 </p>
+
+The FarmBot Genesis v1.6 was upgraded with a Raspberry Pi (A) to control the position (e.g., yellow dots) and interval of image capture events of an  
+Intel RealSense D405 (B) depth camera. The camera was mounted at the bottom of the z-axis extrusion, while the associated Raspberry Pi was mounted above 
+the electronic box on the gantry of the FarmBot. The camera generated 3-dimensional point clouds that served as a source for LIA retrieval. The accuracy of 
+LIA measurement was validated with a 3D-printed plant with known LIA´s. 
 
 <h2>Evaluating spot-spraying systems in sugar beet (Completed)</h2>
 
