@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 - Francis, L., Geissler, L., Okole, N., Stachniss, C., Gipp, B., **Heim, R. HJ.** (2025). ReflectDetect: A software tool for AprilTag-Guided In-Flight Radiometric Calibration for UAV Optical Data. (in review)
-- Hennecke, F., Bömer J., **Heim, R. HJ.** (2025). Modification of an Automated Precision Farming Robot for High Temporal Resolution Measurement of Leaf Angle Dynamics using Stereo Vision. *MethodsX*. doi: [10.1016/j.mex.2025.103169](https://doi.org/10.1016/j.mex.2025.103169).
+- Hennecke, F., Bömer J., **Heim, R. HJ.** (2025). Modification of an Automated Precision Farming Robot for High Temporal Resolution Measurement of Leaf Angle Dynamics using Stereo Vision. *MethodsX*. doi: [10.1016/j.mex.2025.103169](https://authors.elsevier.com/a/1kULj7tekXJMdi).
 - **Heim, R. HJ.**, Melloy, P., Okole, N., Ispizua Yamati, F. R., Mahlein, A.‑K. (2024). Remotely sensed leaf area index can improve
 mechanistic <i>Cercospora beticola</i> epidemiological models for disease predictions. (in review)
 - **Heim, R.HJ.**, Okole, N., Steppe, K. Van Labeke, M.C., Geedicke, I., Maes, W.H. (2024). An applied framework to unlocking multi-angular UAV reflectance data: a case study for classification of plant parameters in maize (*Zea mays*). *Precision Agriculture*. doi:[10.1007/s11119-024-10133-0](https://doi.org/10.1007/s11119-024-10133-0)
