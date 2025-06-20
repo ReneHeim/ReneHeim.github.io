@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Rene HJ Heim"
-title_separator          : "-"
-name                     : # &name "Your Name"
+title                    : "Dr"
+title_separator          : "."
+name                     : # &name "Rene HJ Heim"
 description              : &description 
 url                      : https://reneheim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Interdisciplinary Science"
+  name             : ""
   avatar           : "heim_pic_crop.jpg"
-  bio              : "I am an interdisciplinary researcher passionate about leveraging remote sensing technologies across all scales to identify and promote win-win solutions for sustainable agricultural management and environmental stewardship." 
+  bio              : "Remote Sensing | Plant Stress | Data Science" 
   location         : # "Germany"
-  employer         : #"University of Bonn"
+  employer         : #"University of Göttingen"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TgkrRFgAAAAJ&hl=en"
-  email            :  "heim@ifz-goettingen.de"
+  email            :  "rene.heim@uni-goettingen.de"
   researchgate     :  "https://www.researchgate.net/profile/Rene-Heim-2"
   uri              :
   bitbucket        :
