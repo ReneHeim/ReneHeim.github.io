@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr"
-title_separator          : "."
-name                     : # &name "Rene HJ Heim"
+title                    : "Dr. Rene HJ Heim"
+title_separator          : "-"
+name                     : # &name ""
 description              : &description 
 url                      : https://reneheim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,11 +81,11 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Interests"
   avatar           : "heim_pic_crop.jpg"
-  bio              : "Remote Sensing | Plant Stress | Data Science" 
+  bio              : "Remote Sensing, Plant Stress, Data Science, Open Science, Interdisciplinary Research" 
   location         : # "Germany"
-  employer         : #"University of Göttingen"
+  employer         : #"University of Goettingen"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TgkrRFgAAAAJ&hl=en"
   email            :  "rene.heim@uni-goettingen.de"
