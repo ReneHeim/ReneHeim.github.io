@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Interests"
+  name             : ""
   avatar           : "heim_pic_crop.jpg"
   bio              : "Remote Sensing | Plant Stress | Data Science | Open Science | Interdisciplinary Research" 
   location         : # "Germany"
