@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- Nzuza P, Schröder ML, **Heim R. HJ.**, Daniels L, Slippers B, Hurley BP, Germishuizen Ii, Sivparsad B, Roux J, Maes WH. (2025). Assessing Gonipterus defoliation levels using multispectral unmanned aerial vehicle (UAV) data in Eucalyptus plantations. *Ecological Informatics*: 103301. [10.1016/j.ecoinf.2025.103301](https://doi.org/10.1016/j.ecoinf.2025.103301).
 - Francis, L., Geissler, L., Okole, N., Stachniss, C., Gipp, B., **Heim, R. HJ.** (2025). ReflectDetect: A software tool for AprilTag-guided in-flight radiometric calibration for UAV-mounted 2D snapshot multi-camera imagery. *SoftwareX*. [10.1016/j.softx.2025.102150](https://www.sciencedirect.com/science/article/pii/S2352711025001177).
 - Hennecke, F., Bömer J., **Heim, R. HJ.** (2025). Modification of an Automated Precision Farming Robot for High Temporal Resolution Measurement of Leaf Angle Dynamics using Stereo Vision. *MethodsX*. doi: [10.1016/j.mex.2025.103169](https://www.sciencedirect.com/science/article/pii/S2215016125000172).
 - **Heim, R. HJ.**, Melloy, P., Okole, N., Ispizua Yamati, F. R., Mahlein, A.‑K. (2024). Remotely sensed leaf area index can improve
