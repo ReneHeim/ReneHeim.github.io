@@ -11,4 +11,4 @@ author_profile: true
 - Can we quantify multi-seasonal in-field spatial heterogeneity using Sentinel 2 super-resolution data? (**B.Sc. and M.Sc.**)
 - Exploring advantages and disadvantes of drone-derived multiangular reflectance data (**B.Sc.**)
 - Can hedgerows function as environmental filters for pests and pathogens? (**M.Sc.**)
-- To what extent do agroecosystem landscape structure (what are useful metrics?) differ between Germany (Lower Saxony) and South Africa?
+- To what extent do agroecosystem landscape structure (what are useful metrics?) differ between Germany (Lower Saxony) and South Africa? (**B.Sc. and M.Sc.**)
