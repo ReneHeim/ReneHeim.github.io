@@ -4,6 +4,12 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## 2025
+
+- Resource assessment and utilization planning using GIS, Geography: Ressource Analysis and Resource Management (M.Sc.), Georg-August-Universität Goettingen
+- Applied geoinformatics, Geography (B.Sc.), Georg-August-Universität Goettingen
+- NPW-028 Forecasting models, (field)diagnostics and sensor technology for crop protection, Crop Sciences (M.Sc.), Rheinische Friedrich-Wilhelms-Universität Bonn
+- Digital technologies in plant production, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
 
 ## 2024
 
