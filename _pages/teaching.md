@@ -10,9 +10,11 @@ author_profile: true
 - Applied geoinformatics, Geography (B.Sc.), Georg-August-Universität Goettingen
 - NPW-028 Forecasting models, (field)diagnostics and sensor technology for crop protection, Crop Sciences (M.Sc.), Rheinische Friedrich-Wilhelms-Universität Bonn
 - Digital technologies in plant production, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
+- Selected Topics in Data Science, Applied Data Science (M.Sc.), Georg-August-Universität Goettingen
 
 ## 2024
 
+- Selected Topics in Data Science, Applied Data Science (M.Sc.), Georg-August-Universität Goettingen
 - Lecture, Hyper- and Multispectral Sensors in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
 - Lecture, Unmanned Aerial Systems in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
 - Lecture, Basic Scientific Programming - Getting started with Python, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
