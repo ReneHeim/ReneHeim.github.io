@@ -5,7 +5,7 @@ permalink: /thesis/
 author_profile: true
 ---
 
-If you are interested in discussion thesis topics, feel free to [book a meeting](https://reneheim.github.io/contact/) and visit me. I am trying to keep my institutional homepage up-to-date. There you can find open calls for thesis work.  Apart from these open calls, we can discuss topics within the scope of: 
+If you are interested in discussion thesis topics, feel free to [book a meeting](https://reneheim.github.io/contact/) and visit me. I am trying to keep my institutional homepage up-to-date. [There you can find open calls for thesis work](https://www.uni-goettingen.de/en/abschlussarbeiten/700984.html).  Apart from these open calls, we can discuss topics within the scope of: 
 
 - Computational Geography (Python, R and Julia)
 - Machine Learning
