@@ -29,18 +29,18 @@ Cartography, GIS & Remote Sensing
 Goldschmidtstr. 5  
 37077 Göttingen, Germany  
 
-**Room:** 4.126
+**Room:** 4.126 [Lageplan](https://lageplan.uni-goettingen.de?ident=2410_1_4.OG_4.126)
 
 ---
 
 ## Research & Teaching Interests
 
 Feel free to reach out if you're interested in discussing:
-- Remote sensing and vegetation monitoring
-- Plant stress analysis
-- Geospatial data analysis
-- Agroecosystem research
-- Open-source GIS and spatial statistics
-- Geospatial programming education
+- Computational Geography (Python, R and Julia)
+- Machine Learning
+- Agro-Ecosystem Research
+- Remote Sensing of Plant Stress
+- Open and Reproducible Research in Agro-Ecosystem Research
+- Urban Remote Sensing
 
 I look forward to connecting with you!
