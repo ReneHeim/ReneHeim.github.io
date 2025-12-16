@@ -13,3 +13,8 @@ If you are interested in discussion thesis topics, feel free to [book a meeting]
 - Remote Sensing of Plant Stress
 - Open and Reproducible Research in Agro-Ecosystem Research
 - Urban Remote Sensing
+
+If you are preparing your thesis project, look up the following resources to get started:
+
+- [Ecological Toolbox: A short guide for research projects in ecology](https://paternogbc.github.io/ecological-toolbox/)
+- [How to prepare your thesis?](https://github.com/ReneHeim/how-to-prepare-your-thesis)
