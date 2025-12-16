@@ -5,10 +5,11 @@ permalink: /thesis/
 author_profile: true
 ---
 
-- How do drone flight patterns affect the coverage of multi-angular views and the battery costs? (**M.Sc.**)
-- Can we classify mycological herbaria using hyperspectral digitalisation? (**M.Sc.**)
-- How does the open-source software [ReflectDetect](https://github.com/reflectdetect/reflectdetect) affect multispectral reflectance properties compared to standard radiometric calibration procedures? (**M.Sc.**)
-- Can we quantify multi-seasonal in-field spatial heterogeneity using Sentinel 2 super-resolution data? (**B.Sc. and M.Sc.**)
-- Exploring advantages and disadvantes of drone-derived multiangular reflectance data (**B.Sc.**)
-- Can hedgerows function as environmental filters for pests and pathogens? (**M.Sc.**)
-- To what extent do agroecosystem landscape structure (what are useful metrics?) differ between Germany (Lower Saxony) and South Africa? (**B.Sc. and M.Sc.**)
+If you are interested in discussion thesis topics, feel free to [book a meeting](https://reneheim.github.io/contact/) and visit me. I am trying to keep my institutional homepage up-to-date. There you can find open calls for thesis work.  Apart from these open calls, we can discuss topics within the scope of: 
+
+- Computational Geography (Python, R and Julia)
+- Machine Learning
+- Agro-Ecosystem Research
+- Remote Sensing of Plant Stress
+- Open and Reproducible Research in Agro-Ecosystem Research
+- Urban Remote Sensing
