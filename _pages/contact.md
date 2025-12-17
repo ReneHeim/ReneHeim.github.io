@@ -9,7 +9,7 @@ author_profile: true
 
 I'm happy to discuss research, teaching, or collaborative opportunities. Below you'll find multiple ways to connect with me.
 
-### Schedule a Meeting
+### Schedule a Meeting (For UGOE Students only!)
 
 The easiest way to book a meeting is through my online calendar:
 
