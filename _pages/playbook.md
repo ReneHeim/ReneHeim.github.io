@@ -86,8 +86,11 @@ This page is a living collection of resources for students and early career rese
 - Avoiding Predatory Journals -> [Beall´s List](https://beallslist.net/)
 
 ## 6. Research Funding
-- TBA
-- TBA
+#### Funding for Students
+- UGOE: [Mobility](https://www.uni-goettingen.de/en/164293.html)
+
+#### Funding for Early Career Researchers
+- UGOE: [Interdiscplinary Workshops](https://www.uni-goettingen.de/de/691298.html)
 
 ## 7. Additional Topics
 - Lab On-Boarding: [Valve Handbook For New Employees](https://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf)
