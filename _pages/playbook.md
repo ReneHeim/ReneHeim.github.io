@@ -53,7 +53,7 @@ This page is a living collection of resources for students and early career rese
 - Photogrammetry: [Open Drone Map](https://www.opendronemap.org/)
 - Python Notebooks: TBA
 - R Notebooks: [Quarto Tricks](https://www.productive-r-workflow.com/quarto-tricks)
-- Exploratory Data Analysis: TBA
+- Exploratory Data Analysis: [A protocol for data exploration to avoid common statistical problems](https://doi.org/10.1111/j.2041-210X.2009.00001.x)
 
 
 #### Data Visualization
