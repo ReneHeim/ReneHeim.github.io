@@ -22,7 +22,7 @@ This page is a living collection of resources for students and early career rese
 - Planning UAS Missions: [UAS Pre-Flight Checklist](https://unisvalbard.github.io/Geo-UAV/content/lessons/check_list/preflight_checklist.html)
 - Planning Spectral Field Campaigns: [Anna Schweiger](https://www.zora.uzh.ch/server/api/core/bitstreams/508a80b7-29c0-4282-876c-b3af2d0a1a0e/content)
 - Am I allowed to fly? [dipul MapTool](https://maptool-dipul.dfs.de/?language=en&zoom=11.0)
-- Drone Weather: [Various Apps](https://www.jabdrone.com/post/top-12-drone-weather-app-choices-for-pilots-in-2025)
+- UAS Weather Check: [Various Apps](https://www.jabdrone.com/post/top-12-drone-weather-app-choices-for-pilots-in-2025)
 
 #### Collecting Data
 - Collecting Geospatial Data: [QField](https://qfield.org/)
