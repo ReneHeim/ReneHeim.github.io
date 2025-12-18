@@ -49,7 +49,7 @@ This page is a living collection of resources for students and early career rese
 - Learning Statistics in R (copy in my office) -> [Discovering Statistics Using R ](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)
 - Learning Machine Learning: [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - Image Processing: [scikit-image](https://scikit-image.org/)
-- Geospatial Analysis: [Geocomputation in R](https://bookdown.org/robinlovelace/geocompr/)
+- Geospatial Analysis: [Geocomputation in R](https://bookdown.org/robinlovelace/geocompr/) and [Spatial Data Science](https://r-spatial.org/book/)
 - Photogrammetry: [Open Drone Map](https://www.opendronemap.org/)
 - Python Notebooks: TBA
 - R Notebooks: [Quarto Tricks](https://www.productive-r-workflow.com/quarto-tricks)
