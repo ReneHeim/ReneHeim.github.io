@@ -30,6 +30,7 @@ This page is a living collection of resources for students and early career rese
 - Satellite Data: [Copernicus Browser](https://dataspace.copernicus.eu/explore-data)
 - Open Geo Data (e.g., [NSW Spatial Data Catalogue](https://data.nsw.gov.au/nsw-spatial-data-catalogue) or [Niedersachsen](https://ni-lgln-opengeodata.hub.arcgis.com/))
 - Quick Polygons: [geojson.io](https://geojson.io./#map=2/0/20)
+- Spectral Vegetation Indices: [Awesome Spectral Indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices)
 
 ## 3. After Fieldwork
 #### Learning Scientific Programming
