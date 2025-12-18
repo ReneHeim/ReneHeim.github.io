@@ -47,6 +47,7 @@ This page is a living collection of resources for students and early career rese
 - Python Notebooks
 - R Notebooks
 - Exploratory Data Analysis
+- Machine Learning: [Statistical Learning](https://www.statlearning.com/)
 
 #### Data Visualization
 
