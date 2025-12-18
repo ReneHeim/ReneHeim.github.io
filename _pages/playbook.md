@@ -7,7 +7,7 @@ author_profile: true
 
 This page is a living collection of resources for students and early career researchers to find tools that support each step of their research process, with a focus on remote sensing of vegetation, while still following the logic of the scientific method.These are tools that work for me and have been inspired by Gustavo Paterno´s [Ecological Toolbox](https://paternogbc.github.io/ecological-toolbox/). I am always curious about new solutions. Please create a pull request if you would like to add something. 
 
-## 1. Getting into a new topic and forming ideas
+## 1. Getting Into New Topics
 
 #### Finding and managing literature
 - Collecting Papers: [Research Rabbit](https://www.researchrabbit.ai/)
