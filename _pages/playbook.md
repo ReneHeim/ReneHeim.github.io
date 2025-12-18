@@ -28,7 +28,7 @@ This page is a living collection of resources for students and early career rese
 - Collecting Geospatial Data: [QField](https://qfield.org/)
 - Handbook Standardised Measurement Plant Functional Traits: [N. Pérez-Harguindeguy](https://doi.org/10.1071/BT12225)
 - Satellite Data: [Copernicus Browser](https://dataspace.copernicus.eu/explore-data)
-- Open Geo Data (e.g., [NSW Spatial Data Catalogue (https://data.nsw.gov.au/nsw-spatial-data-catalogue) or [Niedersachsen](https://ni-lgln-opengeodata.hub.arcgis.com/))
+- Open Geo Data (e.g., [NSW Spatial Data Catalogue](https://data.nsw.gov.au/nsw-spatial-data-catalogue) or [Niedersachsen](https://ni-lgln-opengeodata.hub.arcgis.com/))
 - Quick Polygons: [geojson.io](https://geojson.io./#map=2/0/20)
 
 ## 3. After Fieldwork
