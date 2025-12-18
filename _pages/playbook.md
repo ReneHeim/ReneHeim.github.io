@@ -45,7 +45,7 @@ This page is a living collection of resources for students and early career rese
 - Image Processing: [scikit-image](https://scikit-image.org/)
 - Photogrammetry: [Open Drone Map](https://www.opendronemap.org/)
 - Python Notebooks
-- R Notebooks
+- R Notebooks: [Quarto Tricks](https://www.productive-r-workflow.com/quarto-tricks)
 - Exploratory Data Analysis
 - Machine Learning: [An Introduction to Statistical Learning](https://www.statlearning.com/)
 
