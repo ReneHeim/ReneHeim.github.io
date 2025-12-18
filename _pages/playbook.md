@@ -84,5 +84,10 @@ This page is a living collection of resources for students and early career rese
 - Academic Publishing -> [MAITHINK X](https://www.youtube.com/watch?v=qtXABkcRpnE)
 - Avoiding Predatory Journals -> [Beall´s List](https://beallslist.net/)
 
-## 6. Additional Topics
+## 6. Research Funding
+- TBA
+- TBA
+
+## 7. Additional Topics
 - Lab On-Boarding: [Valve Handbook For New Employees](https://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf)
+- Finding Jobs: TBA
