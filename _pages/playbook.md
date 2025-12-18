@@ -47,6 +47,7 @@ This page is a living collection of resources for students and early career rese
 
 ## Writing & Communicating
 #### Writing your paper
+- Thesis writing -> [Rene Heim](https://github.com/ReneHeim/how-to-prepare-your-thesis)
 - Planning the paper structure
 - Guides for structuring scientific papers and theses -> [Cyrill Stachniss](https://www.youtube.com/watch?v=QYbAvOPcy0s)
 - Poster and presentation tips, slide design resources.
