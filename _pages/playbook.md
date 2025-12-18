@@ -79,7 +79,7 @@ This page is a living collection of resources for students and early career rese
 - Posters - Best Practices:
 - Geospatial Conferences -> [Jakub Nowosad](https://github.com/Nowosad/conferences_2025)
 - Open Science Journals
-- Open Data: TBA
+- Open Research Compendium: [The Turing Way](https://book.the-turing-way.org/reproducible-research/compendia/)
 
 ## 5. Research Ethics
 - Academic Publishing -> [MAITHINK X](https://www.youtube.com/watch?v=qtXABkcRpnE)
