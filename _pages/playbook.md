@@ -32,8 +32,12 @@ This page is a living collection of resources for students and early career rese
 - Quick Polygons: [geojson.io](https://geojson.io./#map=2/0/20)
 
 ## 3. After Fieldwork
+#### Learning Scientific Programming
+- R: [fasteR: Fast Lane to Learning R!](https://github.com/matloff/fasteR?tab=readme-ov-file#vecidxs)
+- Python: TBA
+- Julia: TBA
+  
 #### Data Management & Cleaning
-
 - Directory Structures: [Code Refinery](https://coderefinery.github.io/reproducible-research/organizing-projects/)
 - Open Data Repositories: [List by Swiss National Science Foundation](https://www.snf.ch/en/WtezJ6qxuTRnSYgF/topic/open-research-data-which-data-repositories-can-be-used)
 - Reproducible Research: [The Turing Way](https://book.the-turing-way.org/reproducible-research/reproducible-research/)
@@ -44,7 +48,7 @@ This page is a living collection of resources for students and early career rese
 - Statistics in R (copy in my office) -> [Discovering Statistics Using R ](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)
 - Image Processing: [scikit-image](https://scikit-image.org/)
 - Photogrammetry: [Open Drone Map](https://www.opendronemap.org/)
-- Python Notebooks
+- Python Notebooks: TBA
 - R Notebooks: [Quarto Tricks](https://www.productive-r-workflow.com/quarto-tricks)
 - Exploratory Data Analysis
 - Machine Learning: [An Introduction to Statistical Learning](https://www.statlearning.com/)
@@ -71,7 +75,7 @@ This page is a living collection of resources for students and early career rese
 - Posters - Best Practices:
 - Geospatial Conferences -> [Jakub Nowosad](https://github.com/Nowosad/conferences_2025)
 - Open Science Journals
-- Open Data:
+- Open Data: TBA
 
 ## 5. Research Ethics
 - Academic Publishing -> [MAITHINK X](https://www.youtube.com/watch?v=qtXABkcRpnE)
