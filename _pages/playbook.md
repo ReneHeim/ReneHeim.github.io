@@ -45,18 +45,20 @@ This page is a living collection of resources for students and early career rese
 
 #### Analysis & Modeling
 
-- Statistics in R (copy in my office) -> [Discovering Statistics Using R ](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)
+- Learning Statistics: [Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
+- Learning Statistics in R (copy in my office) -> [Discovering Statistics Using R ](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)
+- Learning Machine Learning: [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - Image Processing: [scikit-image](https://scikit-image.org/)
 - Geospatial Analysis: [Geocomputation in R](https://bookdown.org/robinlovelace/geocompr/)
 - Photogrammetry: [Open Drone Map](https://www.opendronemap.org/)
 - Python Notebooks: TBA
 - R Notebooks: [Quarto Tricks](https://www.productive-r-workflow.com/quarto-tricks)
-- Exploratory Data Analysis
-- Machine Learning: [An Introduction to Statistical Learning](https://www.statlearning.com/)
+- Exploratory Data Analysis: TBA
+
 
 #### Data Visualization
 
-- Best Practices -> [Data-to-Viz](https://www.data-to-viz.com/)
+- Best Practices: [Data-to-Viz](https://www.data-to-viz.com/)
 - Matching Colors: [Palleton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 - Color Palettes - Plots: [Coolers](https://coolors.co/)
 - Color Palettes - Maps: [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
