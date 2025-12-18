@@ -42,7 +42,7 @@ This page is a living collection of resources for students and early career rese
 #### Analysis & Modeling
 
 - Statistics in R (copy in my office) -> [Discovering Statistics Using R ](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)
-- Image Processing: (scikit-image)[https://scikit-image.org/]
+- Image Processing: [scikit-image](https://scikit-image.org/)
 - Photogrammetry: [Open Drone Map](https://www.opendronemap.org/)
 - Python Notebooks
 - R Notebooks
