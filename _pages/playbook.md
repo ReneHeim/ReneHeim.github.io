@@ -13,7 +13,7 @@ This page is a living collection of resources for students and early career rese
 - Collecting Papers: [Research Rabbit]
 - Manage Papers: [Zotero]
 
-## Fieldwork
+## 2. Fieldwork
 
 #### Resources for planning field sampling (reference data) and remote sensing missions 
 
@@ -24,7 +24,7 @@ This page is a living collection of resources for students and early career rese
 - Collecting geospatial data [QField](https://qfield.org/)
 - 
 
-## After Fieldwork
+## 3. After Fieldwork
 #### Data Management & Cleaning
 
 - Directory Structures
@@ -45,14 +45,21 @@ This page is a living collection of resources for students and early career rese
 - Color palettes for maps -> [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 - Figure design -> [Inkscape](https://inkscape.org/de/)
 
-## Writing & Communicating
-#### Writing your paper
+## 4.Writing & Communicating
+#### Writing your thesis
 - Thesis writing -> [Rene Heim](https://github.com/ReneHeim/how-to-prepare-your-thesis)
+
+#### Writing your paper
 - Planning the paper structure
-- Guides for structuring scientific papers and theses -> [Cyrill Stachniss](https://www.youtube.com/watch?v=QYbAvOPcy0s)
+- Full Guide Talk -> [Cyrill Stachniss](https://www.youtube.com/watch?v=QYbAvOPcy0s)
+- Full Guide Text -> [Jason Thatcher](https://www.linkedin.com/posts/jason-thatcher-0329764_writing-handbook-activity-7407132627159326720-9rir?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPU_8MBaOBfxldP4WYlqBIakJgfJeyZVPE)
 - Poster and presentation tips, slide design resources.
 
 #### Communicating your research
 - Geospatial conferences -> [Jakub Nowosad](https://github.com/Nowosad/conferences_2025)
 - Open Science Journals
-- Open Data 
+- Open Data
+- How to avoid predatory journals -> [Beall´s List](https://beallslist.net/)
+
+## 5. Research Ethics
+- The problem with academic publishing -> [MAITHINK X](https://www.youtube.com/watch?v=qtXABkcRpnE)
