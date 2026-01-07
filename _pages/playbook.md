@@ -77,17 +77,20 @@ This page is a living collection of resources for students and early career rese
 #### Research Communication
 - Talks - Best Practices:
 - Posters - Best Practices:
-- Geospatial Conferences -> [Jakub Nowosad](https://github.com/Nowosad/conferences_2025)
+- Geospatial Conferences: [Jakub Nowosad](https://github.com/Nowosad/conferences_2025)
 - Open Science Journals
 - Open Research Compendium: [The Turing Way](https://book.the-turing-way.org/reproducible-research/compendia/)
 
 ## 5. Research Ethics
-- Academic Publishing -> [MAITHINK X](https://www.youtube.com/watch?v=qtXABkcRpnE)
-- Avoiding Predatory Journals -> [Beall´s List](https://beallslist.net/)
+- Academic Publishing: [MAITHINK X](https://www.youtube.com/watch?v=qtXABkcRpnE)
+- Avoiding Predatory Journals: [Beall´s List](https://beallslist.net/)
 
 ## 6. Research Funding
 #### Funding for Students
 - UGOE: [Mobility](https://www.uni-goettingen.de/en/164293.html)
+
+#### Studying in Germany
+- [Guide on studying in Germany](https://www.deutschland.de/en/studying-in-germany) 
 
 #### Funding for Early Career Researchers
 - UGOE: [Interdiscplinary Workshops](https://www.uni-goettingen.de/de/691298.html)
