@@ -13,6 +13,7 @@ This page is a living collection of resources for students and early career rese
 - Collecting Papers: [Research Rabbit](https://www.researchrabbit.ai/)
 - Manage Papers: [Zotero](https://www.zotero.org/) and [Mendeley](https://www.mendeley.com/)
 - Types of literature: [University of Saskatchewan](https://libguides.usask.ca/c.php?g=719210&p=5137707)
+- Writing a PhD scholarship proposal: [University of Sydney](https://www.sydney.edu.au/study/help/advice/how-to-write-a-research-proposal.html#accordion-211b0d4a50-item-65cad4a776)
 
 ## 2. Fieldwork
 
