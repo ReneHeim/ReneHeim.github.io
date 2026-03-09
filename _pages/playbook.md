@@ -88,6 +88,7 @@ This page is a living collection of resources for students and early career rese
 ## 6. Research Funding
 #### Funding for Students
 - UGOE: [Mobility](https://www.uni-goettingen.de/en/164293.html)
+- UGOE: [Scholarships](https://www.uni-goettingen.de/en/655745.html)
 
 #### Studying in Germany
 - [Guide on studying in Germany](https://www.deutschland.de/en/studying-in-germany) 
