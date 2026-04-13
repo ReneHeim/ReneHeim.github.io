@@ -75,6 +75,18 @@ This page is a living collection of resources for students and early career rese
 #### Paper Writing
 - Full Guide Talk: [Cyrill Stachniss](https://www.youtube.com/watch?v=QYbAvOPcy0s)
 - Full Guide Text: [Jason Thatcher](https://www.linkedin.com/posts/jason-thatcher-0329764_writing-handbook-activity-7407132627159326720-9rir?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPU_8MBaOBfxldP4WYlqBIakJgfJeyZVPE)
+- How to Write...
+  - An Abstract:
+    - tba
+  - An Introduction:
+    - tba
+  - Methods and Results:
+    - tba
+  - A Discussion:
+    - [Hess, 2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC10676253/)
+    - [Elsevier Guide](https://scientific-publishing.webshop.elsevier.com/manuscript-preparation/steps-to-write-excellent-discussion-in-manuscript/)
+    - [PLOS Guide](https://plos.org/resource/how-to-write-conclusions/)
+   
 
 #### Research Communication
 - Talks - Best Practices:
