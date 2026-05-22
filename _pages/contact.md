@@ -11,9 +11,12 @@ I'm happy to discuss research, teaching, or collaborative opportunities. Below y
 
 ### Schedule a Meeting (For UGOE Students only!)
 
-The easiest way to book a meeting is through my online calendar:
+Please send me an email and pick one of the following meeting slots: 
 
-**[📅 Book a Meeting](https://studip-ecampus.uni-goettingen.de/dispatch.php/consultation/overview?username=heim8){: .btn .btn--primary}**
+- Each Wednesday 1pm-1.30pm
+- Each Wednesday 1.30pm-2pm
+
+If the slot is available, I will confirm and the meeting will be at my office (see below). Thanks a lot!
 
 ### Direct Contact
 
