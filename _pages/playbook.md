@@ -36,14 +36,15 @@ This page is a living collection of resources for students and early career rese
 ## 3. After Fieldwork
 #### Learning Scientific Programming
 - R: [fasteR: Fast Lane to Learning R!](https://github.com/matloff/fasteR?tab=readme-ov-file#vecidxs)
-- Python: TBA
-- Julia: TBA
+- Python: [Introduction to Python for Geographic Data Analysis](https://pythongis.org/)
+- Julia: [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
   
 #### Data Management & Cleaning
 - Directory Structures: [Code Refinery](https://coderefinery.github.io/reproducible-research/organizing-projects/)
 - Open Data Repositories: [List by Swiss National Science Foundation](https://www.snf.ch/en/WtezJ6qxuTRnSYgF/topic/open-research-data-which-data-repositories-can-be-used)
 - Reproducible Research: [The Turing Way](https://book.the-turing-way.org/reproducible-research/reproducible-research/)
 - The Big Book of R: [Getting, Cleaning and Wrangling Data](https://www.bigbookofr.com/chapters/getting%20cleaning%20and%20wrangling%20data)
+- Using LLMs: [Getting Started with Claude Code: A Researcher’s Setup Guide](https://paulgp.substack.com/p/getting-started-with-claude-code)
 
 #### Analysis & Modeling
 
