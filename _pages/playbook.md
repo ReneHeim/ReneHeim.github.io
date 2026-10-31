@@ -7,7 +7,12 @@ author_profile: true
 
 This page is a living collection of resources for students and early career researchers to find tools that support each step of their research process, with a focus on remote sensing of vegetation, while still following the logic of the scientific method.These are tools that work for me and have been inspired by Gustavo Paterno´s [Ecological Toolbox](https://paternogbc.github.io/ecological-toolbox/). I am always curious about new solutions. Please create a pull request if you would like to add something. 
 
-## 1. Getting Into New Topics
+## 1. Organizing Your Work
+
+#### Planning Your Thesis
+- 6-Month Thesis / PhD Plan (Excel): [Download template](/files/6-month-thesis-phd-plan.xlsx) - a Gantt-style planner for Bachelor/Master theses and 6-month PhD blocks that accounts for jobs, holidays, and sick days. Start with the "Guide" sheet.
+
+## 2. Getting Into New Topics
 
 #### Finding and managing literature
 - Collecting Papers: [Research Rabbit](https://www.researchrabbit.ai/)
@@ -15,7 +20,7 @@ This page is a living collection of resources for students and early career rese
 - Types of literature: [University of Saskatchewan](https://libguides.usask.ca/c.php?g=719210&p=5137707)
 - Writing a PhD scholarship proposal: [University of Sydney](https://www.sydney.edu.au/study/help/advice/how-to-write-a-research-proposal.html#accordion-211b0d4a50-item-65cad4a776)
 
-## 2. Fieldwork
+## 3. Fieldwork
 
 #### Planning Fieldwork (Remote Sensing and Reference Data)
 
@@ -33,7 +38,7 @@ This page is a living collection of resources for students and early career rese
 - Quick Polygons: [geojson.io](https://geojson.io./#map=2/0/20)
 - Spectral Vegetation Indices: [Awesome Spectral Indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices)
 
-## 3. After Fieldwork
+## 4. After Fieldwork
 #### Learning Scientific Programming
 - R: [fasteR: Fast Lane to Learning R!](https://github.com/matloff/fasteR?tab=readme-ov-file#vecidxs)
 - Python: [Introduction to Python for Geographic Data Analysis](https://pythongis.org/)
@@ -68,7 +73,7 @@ This page is a living collection of resources for students and early career rese
 - Figure Design: [Inkscape](https://inkscape.org/de/)
 - Workflow: [Draw.io](https://app.diagrams.net/)
 
-## 4.Writing & Communicating
+## 5.Writing & Communicating
 #### Thesis Writing
 - Bachelor and Master Thesis: [Rene Heim](https://github.com/ReneHeim/how-to-prepare-your-thesis)
 - Writing Abstracts: [A Nature Summary Paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf)
@@ -96,11 +101,11 @@ This page is a living collection of resources for students and early career rese
 - Open Science Journals
 - Open Research Compendium: [Research Compendium in GIS](https://research-compendium.science/))
 
-## 5. Research Ethics
+## 6. Research Ethics
 - Academic Publishing: [MAITHINK X](https://www.youtube.com/watch?v=qtXABkcRpnE)
 - Avoiding Predatory Journals: [Beall´s List](https://beallslist.net/)
 
-## 6. Research Funding
+## 7. Research Funding
 #### Funding for Students
 - UGOE: [Mobility](https://www.uni-goettingen.de/en/164293.html)
 - UGOE: [Scholarships](https://www.uni-goettingen.de/en/655745.html)
@@ -111,6 +116,6 @@ This page is a living collection of resources for students and early career rese
 #### Funding for Early Career Researchers
 - UGOE: [Interdiscplinary Workshops](https://www.uni-goettingen.de/de/691298.html)
 
-## 7. Additional Topics
+## 8. Additional Topics
 - Lab On-Boarding: [Valve Handbook For New Employees](https://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf)
 - Finding Jobs: TBA
