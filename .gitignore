@@ -11,7 +11,7 @@ vendor/
 node_modules/
 Gemfile.lock
 
-# Python / Jupyter (markdown_generator, talkmap)
+# Python / Jupyter (markdown_generator)
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
