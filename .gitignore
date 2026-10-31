@@ -1,2 +1,44 @@
+# Jekyll build output and caches
 _site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.asset-cache/
 
+# Ruby / Node dependencies (GitHub Pages builds its own)
+.bundle/
+vendor/
+node_modules/
+Gemfile.lock
+
+# Python / Jupyter (markdown_generator, talkmap)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+
+# Claude Code: local-only notes and settings
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Logs and scratch
+*.log
+tmp/

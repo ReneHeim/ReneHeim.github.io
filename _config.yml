@@ -131,6 +131,15 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
+  - CHANGELOG.md
+  - CLAUDE.md
+  - CLAUDE.local.md
+  - CONTRIBUTING.md
+  - README.md
+  - markdown_generator
+  - talkmap.py
+  - talkmap.ipynb
+  - Gemfile.lock
   - Capfile
   - Gemfile
   - Gruntfile.js
