@@ -6,29 +6,29 @@ author_profile: true
 ---
 ## 2025
 
-- Resource assessment and utilization planning using GIS, Geography: Ressource Analysis and Resource Management (M.Sc.), Georg-August-Universität Goettingen
-- Applied geoinformatics, Geography (B.Sc.), Georg-August-Universität Goettingen
-- NPW-028 Forecasting models, (field)diagnostics and sensor technology for crop protection, Crop Sciences (M.Sc.), Rheinische Friedrich-Wilhelms-Universität Bonn
-- Digital technologies in plant production, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
-- Selected Topics in Data Science, Applied Data Science (M.Sc.), Georg-August-Universität Goettingen
+- Resource assessment and utilization planning using GIS, Geography: Resource Analysis and Resource Management (M.Sc.), Georg-August-Universität Göttingen
+- Applied geoinformatics, Geography (B.Sc.), Georg-August-Universität Göttingen
+- NPW-028 Forecasting models, (field) diagnostics and sensor technology for crop protection, Crop Sciences (M.Sc.), Rheinische Friedrich-Wilhelms-Universität Bonn
+- Digital technologies in plant production, Agricultural Sciences (M.Sc.), Georg-August-Universität Göttingen
+- Selected Topics in Data Science, Applied Data Science (M.Sc.), Georg-August-Universität Göttingen
 
 ## 2024
 
-- Selected Topics in Data Science, Applied Data Science (M.Sc.), Georg-August-Universität Goettingen
-- Lecture, Hyper- and Multispectral Sensors in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
-- Lecture, Unmanned Aerial Systems in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
-- Lecture, Basic Scientific Programming - Getting started with Python, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
-- Lecture, Advanced Scientific Programming - Geospatial Image Processing I, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
+- Selected Topics in Data Science, Applied Data Science (M.Sc.), Georg-August-Universität Göttingen
+- Lecture, Hyper- and Multispectral Sensors in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Göttingen
+- Lecture, Unmanned Aerial Systems in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Göttingen
+- Lecture, Basic Scientific Programming - Getting started with Python, Agricultural Sciences (M.Sc.), Georg-August-Universität Göttingen
+- Lecture, Advanced Scientific Programming - Geospatial Image Processing I, Agricultural Sciences (M.Sc.), Georg-August-Universität Göttingen
 - Guest Lecture, Unmanned Aerial Systems in Plant Science, Crop Sciences (M.Sc.), Rheinische Friedrich-Wilhelms-Universität Bonn
 
 ## 2023
 
-- Lecture, Hyper- and Multispectral Sensors in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
-- Lecture, Unmanned Aerial Systems in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
+- Lecture, Hyper- and Multispectral Sensors in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Göttingen
+- Lecture, Unmanned Aerial Systems in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Göttingen
 
 ## 2022
 
-- Lecture, Hyper- and Multispectral Sensors in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Goettingen
+- Lecture, Hyper- and Multispectral Sensors in Plant Science, Agricultural Sciences (M.Sc.), Georg-August-Universität Göttingen
 
 ## 2017
 
