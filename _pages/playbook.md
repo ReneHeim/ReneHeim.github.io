@@ -7,7 +7,7 @@ author_profile: true
 
 This page is a living collection of resources for students and early career researchers to find tools that support each step of their research process, with a focus on remote sensing of vegetation, while still following the logic of the scientific method. These are tools that work for me and have been inspired by Gustavo Paterno’s [Ecological Toolbox](https://paternogbc.github.io/ecological-toolbox/). I am always curious about new solutions. Please create a pull request if you would like to add something. 
 
-## 1. Organizing Your Work
+## 1. Organising Your Work
 
 #### Joining the Lab
 - Lab On-Boarding for New Students: [Onboarding Guide](https://pad.gwdg.de/s/v-aQSXtIoE) - weekly meetings, Teams, compute access, student room, and a first-week checklist.
@@ -54,7 +54,7 @@ This page is a living collection of resources for students and early career rese
 - The Big Book of R: [Getting, Cleaning and Wrangling Data](https://www.bigbookofr.com/chapters/getting%20cleaning%20and%20wrangling%20data)
 - Using LLMs: [Getting Started with Claude Code: A Researcher’s Setup Guide](https://paulgp.substack.com/p/getting-started-with-claude-code)
 
-#### Analysis & Modeling
+#### Analysis & Modelling
 
 - Learning Statistics: [Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
 - Learning Statistics in R (copy in my office) -> [Discovering Statistics Using R ](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)
@@ -67,12 +67,12 @@ This page is a living collection of resources for students and early career rese
 - Exploratory Data Analysis: [A protocol for data exploration to avoid common statistical problems](https://doi.org/10.1111/j.2041-210X.2009.00001.x)
 
 
-#### Data Visualization
+#### Data Visualisation
 
 - Best Practices: [Data-to-Viz](https://www.data-to-viz.com/)
-- Matching Colors: [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
-- Color Palettes - Plots: [Coolors](https://coolors.co/)
-- Color Palettes - Maps: [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+- Matching Colours: [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+- Colour Palettes - Plots: [Coolors](https://coolors.co/)
+- Colour Palettes - Maps: [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 - Figure Design: [Inkscape](https://inkscape.org/de/)
 - Workflow: [Draw.io](https://app.diagrams.net/)
 
