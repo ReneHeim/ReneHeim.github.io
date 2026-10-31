@@ -9,7 +9,7 @@ author_profile: true
 
 I'm happy to discuss research, teaching, or collaborative opportunities. Below you'll find multiple ways to connect with me.
 
-### Schedule a Meeting (For UGOE Students only!)
+### Schedule a Personal Meeting (For UGOE Students only!)
 
 Please send me an email and pick one of the following meeting slots: 
 
