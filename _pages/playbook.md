@@ -9,6 +9,9 @@ This page is a living collection of resources for students and early career rese
 
 ## 1. Organizing Your Work
 
+#### Joining the Lab
+- Lab On-Boarding for New Students: [Onboarding Guide](https://pad.gwdg.de/s/v-aQSXtIoE) - weekly meetings, Teams, compute access, student room, and a first-week checklist.
+
 #### Planning Your Thesis
 - 6-Month Thesis / PhD Plan (Excel): [Download template](/files/6-month-thesis-phd-plan.xlsx) - a Gantt-style planner for Bachelor/Master theses and 6-month PhD blocks that accounts for jobs, holidays, and sick days. Start with the "Guide" sheet.
 
