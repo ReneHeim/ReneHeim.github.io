@@ -75,7 +75,7 @@ This page is a living collection of resources for students and early career rese
 
 ## 5. Writing & Communicating
 #### Thesis Writing
-- Bachelor and Master Thesis: [Rene Heim](https://github.com/ReneHeim/how-to-prepare-your-thesis)
+- Bachelor and Master Thesis: [Rene HJ Heim](https://github.com/ReneHeim/how-to-prepare-your-thesis)
 - Writing Abstracts: [A Nature Summary Paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf)
 
 #### Paper Writing

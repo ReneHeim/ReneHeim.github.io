@@ -26,7 +26,7 @@ If the slot is available, I will confirm and the meeting will be at my office (s
 
 ### Office Location
 
-**Dr. René Hans-Jürgen Heim**  
+**Rene HJ Heim**  
 Institute of Geography  
 Cartography, GIS & Remote Sensing  
 Goldschmidtstr. 5  
